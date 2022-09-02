@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.card-header{
+    display: flex;
+    justify-content: space-between;
+}
+#btnDeleteAll{
+    display: flex;
+    align-items: center;
+}
+.card-body{
+    padding: 25px;
+}
